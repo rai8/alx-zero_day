@@ -1,1 +1,1 @@
-Zero day git exercise
+My first readme
